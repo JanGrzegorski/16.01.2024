@@ -1,0 +1,11 @@
+STL
+Stos (Stock)
+Queqe(kolejka)
+Wskaźniki (pointer)
+Vektory(vector)
+C-struktury- zbiór danych należących do dowolnego typu
+------------------------------------------------------
+struct nazwa_struktury {
+	typ_pola1 nazwe_pola1;
+	typ_pola2 nazwe_pola2;
+}
